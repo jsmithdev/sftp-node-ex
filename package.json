@@ -1,0 +1,24 @@
+{
+  "name": "sftp-node-ex",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ssh2-sftp-client": "^7.2.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmithdev/sftp-node-ex.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmithdev/sftp-node-ex/issues"
+  },
+  "homepage": "https://github.com/jsmithdev/sftp-node-ex#readme"
+}
